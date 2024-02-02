@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
--  Solution URL: [https://github.com/nkshey/order-summary-component](https://github.com/nkshey/order-summary-component)
+-  Solution URL: [https://github.com/nkshey/results-summary-component](https://github.com/nkshey/results-summary-component)
 -  Live Site URL: [https://nkshey.github.io/results-summary-component/](https://nkshey.github.io/results-summary-component/)
 
 ## My process
